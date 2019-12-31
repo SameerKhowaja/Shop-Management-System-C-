@@ -1,0 +1,28 @@
+D:\PROJECTS\Shop Management System\Shop System Management\Shop System Management\bin\Debug\Shop System Management.exe.config
+D:\PROJECTS\Shop Management System\Shop System Management\Shop System Management\bin\Debug\Shop System Management.exe
+D:\PROJECTS\Shop Management System\Shop System Management\Shop System Management\bin\Debug\Shop System Management.pdb
+D:\PROJECTS\Shop Management System\Shop System Management\Shop System Management\obj\Debug\Shop_System_Management.Form1.resources
+D:\PROJECTS\Shop Management System\Shop System Management\Shop System Management\obj\Debug\Shop_System_Management.Properties.Resources.resources
+D:\PROJECTS\Shop Management System\Shop System Management\Shop System Management\obj\Debug\Shop System Management.csproj.GenerateResource.Cache
+D:\PROJECTS\Shop Management System\Shop System Management\Shop System Management\obj\Debug\Shop System Management.exe
+D:\PROJECTS\Shop Management System\Shop System Management\Shop System Management\obj\Debug\Shop System Management.pdb
+D:\PROJECTS\C# Work\Shop System Management\Shop System Management\Shop System Management\bin\Debug\Shop System Management.exe.config
+D:\PROJECTS\C# Work\Shop System Management\Shop System Management\Shop System Management\obj\Debug\Shop System Management.exe
+D:\PROJECTS\C# Work\Shop System Management\Shop System Management\Shop System Management\obj\Debug\Shop System Management.pdb
+D:\PROJECTS\C# Work\Shop System Management\Shop System Management\Shop System Management\bin\Debug\Shop System Management.exe
+D:\PROJECTS\C# Work\Shop System Management\Shop System Management\Shop System Management\bin\Debug\Shop System Management.pdb
+D:\PROJECTS\C# Work\Shop System Management\Shop System Management\Shop System Management\obj\Debug\Shop System Management.csprojResolveAssemblyReference.cache
+D:\PROJECTS\C# Work\Shop System Management\Shop System Management\Shop System Management\obj\Debug\Shop_System_Management.PlaceOrder.resources
+D:\PROJECTS\C# Work\Shop System Management\Shop System Management\Shop System Management\obj\Debug\Shop_System_Management.Form1.resources
+D:\PROJECTS\C# Work\Shop System Management\Shop System Management\Shop System Management\obj\Debug\Shop_System_Management.Properties.Resources.resources
+D:\PROJECTS\C# Work\Shop System Management\Shop System Management\Shop System Management\obj\Debug\Shop System Management.csproj.GenerateResource.Cache
+D:\PROJECTSs\C# Work\Shop System Management\Shop System Management\Shop System Management\bin\Debug\Shop System Management.exe.config
+D:\PROJECTSs\C# Work\Shop System Management\Shop System Management\Shop System Management\obj\Debug\Shop System Management.exe
+D:\PROJECTSs\C# Work\Shop System Management\Shop System Management\Shop System Management\obj\Debug\Shop System Management.pdb
+D:\PROJECTSs\C# Work\Shop System Management\Shop System Management\Shop System Management\bin\Debug\Shop System Management.exe
+D:\PROJECTSs\C# Work\Shop System Management\Shop System Management\Shop System Management\bin\Debug\Shop System Management.pdb
+D:\PROJECTSs\C# Work\Shop System Management\Shop System Management\Shop System Management\obj\Debug\Shop System Management.csprojResolveAssemblyReference.cache
+D:\PROJECTSs\C# Work\Shop System Management\Shop System Management\Shop System Management\obj\Debug\Shop_System_Management.PlaceOrder.resources
+D:\PROJECTSs\C# Work\Shop System Management\Shop System Management\Shop System Management\obj\Debug\Shop_System_Management.Form1.resources
+D:\PROJECTSs\C# Work\Shop System Management\Shop System Management\Shop System Management\obj\Debug\Shop_System_Management.Properties.Resources.resources
+D:\PROJECTSs\C# Work\Shop System Management\Shop System Management\Shop System Management\obj\Debug\Shop System Management.csproj.GenerateResource.Cache
